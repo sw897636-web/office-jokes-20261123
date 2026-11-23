@@ -8,7 +8,7 @@ One genuine one-line joke about office life, written for the
 [make.fun](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 bounty "Make the AI Judge Laugh: Office Jokes".
 
-> I replied-all to say 'please stop replying-all' — and 47 colleagues replied-all to agree.
+> I asked AI to write my weekly report — it scheduled a meeting to discuss my progress.
 
 ## How it works
 
